@@ -17,6 +17,5 @@ public class ProbarInterfacesFase2 {
         s1.setTaller(tM1);
         System.out.println(s1.reparar(c1));
 
-
     }
 }
